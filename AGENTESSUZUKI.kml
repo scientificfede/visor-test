@@ -1,0 +1,587 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Nautica Fornés</name>
+      <Point>
+        <coordinates>0.030722286655122,38.8126267440408,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marinajets</name>
+      <Point>
+        <coordinates>-0.6483867,38.4452772,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica Horadada</name>
+      <Point>
+        <coordinates>-0.8027384,37.8697621,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica Jávea</name>
+      <Point>
+        <coordinates>0.1725526,38.7861873,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica Marina Alta</name>
+      <Point>
+        <coordinates>0.0455742,38.7991266,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica Mestre</name>
+      <Point>
+        <coordinates>0.039964,38.6459924,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica Pérez</name>
+      <Point>
+        <coordinates>0.04974,38.8594017,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nauticampello</name>
+      <Point>
+        <coordinates>-0.3838938,38.4314718,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Prada Yachts, S.L.</name>
+      <Point>
+        <coordinates>-0.0573072,38.5882195,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Torrenautic Center</name>
+      <Point>
+        <coordinates>-0.6725609,37.9924303,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arm Yachts &amp; Services S.L.L.</name>
+      <Point>
+        <coordinates>-1.9294681,37.0029423,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica Naya</name>
+      <Point>
+        <coordinates>-2.4279509,36.8580429,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica El Gobernador</name>
+      <Point>
+        <coordinates>-5.4059604,43.5176876,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Motonáutica Guillén</name>
+      <Point>
+        <coordinates>-6.4033871,38.6876558,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bodhinautic S.L.</name>
+      <Point>
+        <coordinates>2.1773428,41.5674391,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Damar Náutica</name>
+      <Point>
+        <coordinates>1.7328083,41.2193096,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mar Nautic</name>
+      <Point>
+        <coordinates>2.505961,41.558718,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica Castelldefels</name>
+      <Point>
+        <coordinates>1.9636914,41.2792267,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica Sunset S.L.</name>
+      <Point>
+        <coordinates>2.0952474,41.3291103,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stay Náutica</name>
+      <Point>
+        <coordinates>2.3147677,41.4805684,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Viento en Popa</name>
+      <Point>
+        <coordinates>2.4161617,41.5284565,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marina Yachting Atlántico</name>
+      <Point>
+        <coordinates>-6.2555447,36.5822355,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Motomóvil Náutica</name>
+      <Point>
+        <coordinates>-5.456233,36.1407591,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica González Guerra</name>
+      <Point>
+        <coordinates>-5.9224799,36.1900204,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica Parodi S.L.</name>
+      <Point>
+        <coordinates>-6.1434459,36.4275862,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica Sur</name>
+      <Point>
+        <coordinates>-6.3568235,36.7655282,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Repamar</name>
+      <Point>
+        <coordinates>-6.0867849,36.3223134,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruz Marina</name>
+      <Point>
+        <coordinates>-3.8064391,43.4289283,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica Gordo</name>
+      <Point>
+        <coordinates>0.1330706,40.0749668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica les Cases</name>
+      <Point>
+        <coordinates>0.4487795,40.4811366,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica Ramón</name>
+      <Point>
+        <coordinates>0.2811765,40.251206,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ampurianautic</name>
+      <Point>
+        <coordinates>3.1007187,42.2615446,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Metropol</name>
+      <Point>
+        <coordinates>3.1362369,41.8633511,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nautic Luis</name>
+      <Point>
+        <coordinates>3.1264427,42.245287,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica Borrat</name>
+      <Point>
+        <coordinates>3.1349992,42.0244239,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica Buscató</name>
+      <Point>
+        <coordinates>3.2032,42.3352036,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nàutica Empordá</name>
+      <Point>
+        <coordinates>3.1280635,42.0425605,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nàutica Gelabert</name>
+      <Point>
+        <coordinates>2.8362958,41.7040231,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica Moret</name>
+      <Point>
+        <coordinates>3.1470379,41.9058723,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica Tossa</name>
+      <Point>
+        <coordinates>2.9331248,41.7243453,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nàutica Voramar</name>
+      <Point>
+        <coordinates>3.1398945,41.8796888,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náuticaleix</name>
+      <Point>
+        <coordinates>3.088529,42.3258048,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nautivela</name>
+      <Point>
+        <coordinates>3.0751231,42.1348029,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Roses Nautic</name>
+      <Point>
+        <coordinates>3.182084,42.2563173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica Élite</name>
+      <Point>
+        <coordinates>-3.7264554,36.7278514,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica Tritón</name>
+      <Point>
+        <coordinates>-3.5493859,36.7345697,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crisve Turismo</name>
+      <Point>
+        <coordinates>-2.7319493,40.4818093,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Laboa Nautika</name>
+      <Point>
+        <coordinates>-1.9190651,43.3253209,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marina Elkano</name>
+      <Point>
+        <coordinates>-2.2532292,43.2977609,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica Playaundi</name>
+      <Point>
+        <coordinates>-1.7934203,43.3668306,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Noraia Nautika</name>
+      <Point>
+        <coordinates>-2.0822765,43.2799296,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Idamar</name>
+      <Point>
+        <coordinates>-6.961387,37.2646891,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centre Nàutic Ciutadella S.L.</name>
+      <Point>
+        <coordinates>3.8549035,40.0087941,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Es Vedra Charter</name>
+      <Point>
+        <coordinates>1.4400764,38.9209685,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Motonáutica Ibiza</name>
+      <Point>
+        <coordinates>1.4001248,38.8954035,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nàutic Center Menorca</name>
+      <Point>
+        <coordinates>4.2410257,39.8859435,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica Guimar</name>
+      <Point>
+        <coordinates>3.2095318,39.5697165,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica Morey</name>
+      <Point>
+        <coordinates>2.7158643,39.6223605,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supermercado Náutico</name>
+      <Point>
+        <coordinates>1.4144827,38.9269573,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fibramar</name>
+      <Point>
+        <coordinates>-9.0017442,43.2135205,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Galiboat S.L.</name>
+      <Point>
+        <coordinates>-8.8795306,42.7985243,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Motonáutica Valdi</name>
+      <Point>
+        <coordinates>-9.2640564,42.9218715,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Outboard Náutica</name>
+      <Point>
+        <coordinates>-8.2673891,43.3509772,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yatesport</name>
+      <Point>
+        <coordinates>-8.2515979,43.3580082,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alisios Saliing Center</name>
+      <Point>
+        <coordinates>-15.4286268,28.1276996,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marina Rubicón</name>
+      <Point>
+        <coordinates>-13.8165168,28.8575043,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Motoras Náuticas Islas Canarias</name>
+      <Point>
+        <coordinates>-15.7112541,27.7864323,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Talleres Bota</name>
+      <Point>
+        <coordinates>0.6216895,41.6196683,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Riber Jet</name>
+      <Point>
+        <coordinates>-3.4551366,40.4499916,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Riomar Náutica</name>
+      <Point>
+        <coordinates>-4.3224132,40.3636461,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marina Benalmádena</name>
+      <Point>
+        <coordinates>-4.5140805,36.594998,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica Ángel Crespos</name>
+      <Point>
+        <coordinates>-4.4748768,36.6684859,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica David</name>
+      <Point>
+        <coordinates>-4.9565483,36.488354,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica Pescatún</name>
+      <Point>
+        <coordinates>-4.5094328,36.5974079,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica Servimar</name>
+      <Point>
+        <coordinates>-4.0554936,36.7547878,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Astilleros de Cartagena</name>
+      <Point>
+        <coordinates>-0.9793801,37.5986132,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica Mar Menor</name>
+      <Point>
+        <coordinates>-0.7999446,37.8300881,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Servinautica Mazarrón</name>
+      <Point>
+        <coordinates>-1.2592553,37.5630951,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Varadero La Manga, S.L.</name>
+      <Point>
+        <coordinates>-0.7392845,37.7451326,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Irisarri Motor</name>
+      <Point>
+        <coordinates>-1.5967362,42.1729353,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ferrináutica</name>
+      <Point>
+        <coordinates>-8.8184039,42.5288053,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Promar Meira</name>
+      <Point>
+        <coordinates>-8.7212366,42.2870972,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yatesport</name>
+      <Point>
+        <coordinates>-8.7065515,42.2567214,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Herzog Inversiones</name>
+      <Point>
+        <coordinates>-16.7346936,28.0783041,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Spinnaker Shop</name>
+      <Point>
+        <coordinates>-16.2484249,28.4699581,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sun Sails Yachts</name>
+      <Point>
+        <coordinates>-6.0262352,37.3409234,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Talleres Calvo</name>
+      <Point>
+        <coordinates>-5.9577314,37.3683907,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hermanos Guash</name>
+      <Point>
+        <coordinates>0.9151678,41.0055685,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Berto Talleres Navales</name>
+      <Point>
+        <coordinates>-0.4050465,39.3813701,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grand Marine S.L.</name>
+      <Point>
+        <coordinates>-0.3878521,39.4044596,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grand Marine S.L.</name>
+      <Point>
+        <coordinates>-0.3779284,39.4165564,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Motor Nautic El Perrelló</name>
+      <Point>
+        <coordinates>-0.276262,39.2781523,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica Sagunto</name>
+      <Point>
+        <coordinates>-0.2177327,39.6688557,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica Astilleros Zarobe</name>
+      <Point>
+        <coordinates>-2.7455132,43.4221076,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica Llamas</name>
+      <Point>
+        <coordinates>-3.0125674,43.3622858,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marinajets</name>
+      <Point>
+        <coordinates>-0.4795089,38.3361056,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Náutica Marcel</name>
+      <Point>
+        <coordinates>-0.09515,38.93046,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
