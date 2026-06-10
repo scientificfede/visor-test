@@ -1,0 +1,25 @@
+{
+  "name": "SATT Field Logger V6 - Santa Pola 2026",
+  "short_name": "SATT Logger",
+  "description": "Registro de picadas, embarques, marcajes, liberaciones y cálculo automático de peso del SATT.",
+  "start_url": "./SATT_FIELD_LOGGER_V6_OFFLINE.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f7f8",
+  "theme_color": "#083b4c",
+  "icons": [
+    {
+      "src": "./satt-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./satt-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+SATT Field Logger V6
+
+Novedad principal:
+- Añade el campo L (longitud del atún, cm).
+- Añade el campo G (medida G, cm).
+- Calcula automáticamente KG con la fórmula:
+  KG = ((((0.9442*L+2.9475)/2.54)*((G*2)/2.54)*((G*2)/2.54))/800)*0.454
+
+Versión online:
+- Subir solo SATT_FIELD_LOGGER_V6_ONLINE.html a GitHub.
+- Abrir: https://scientificfede.github.io/visor-test/SATT_FIELD_LOGGER_V6_ONLINE.html
+- Funciona con conexión. Los datos se guardan en el dispositivo.
+
+Versión offline/PWA:
+Subir juntos a la raíz de visor-test:
+- SATT_FIELD_LOGGER_V6_OFFLINE.html
+- satt-field-logger-v6-manifest.json
+- satt-field-logger-v6-service-worker.js
+- satt-icon-180.png
+- satt-icon-192.png
+- satt-icon-512.png
+
+Abrir en Safari:
+https://scientificfede.github.io/visor-test/SATT_FIELD_LOGGER_V6_OFFLINE.html
+
+Después:
+1. Esperar 10-15 segundos.
+2. Recargar una vez.
+3. Comprobar barcos.
+4. Añadir a pantalla de inicio con un nombre nuevo, por ejemplo SATT Logger V6.
+5. Probar modo avión.
+
+Al final de cada jornada:
+- Exportar CSV.
+- Exportar JSON.
