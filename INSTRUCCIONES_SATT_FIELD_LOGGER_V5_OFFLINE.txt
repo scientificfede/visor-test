@@ -1,0 +1,42 @@
+INSTRUCCIONES SATT FIELD LOGGER V5 OFFLINE
+
+Esta V5 es la versión preparada para funcionar offline como PWA.
+
+ARCHIVOS QUE HAY QUE SUBIR A GITHUB
+Sube estos archivos al mismo sitio donde tienes ahora el HTML del logger, en la raíz del repositorio visor-test:
+
+1. SATT_FIELD_LOGGER_V5_OFFLINE.html
+2. satt-field-logger-manifest.json
+3. satt-field-logger-service-worker.js
+4. satt-icon-180.png
+5. satt-icon-192.png
+6. satt-icon-512.png
+
+No hace falta borrar la V4.1. Déjala como copia de seguridad.
+
+URL DE APERTURA
+Una vez subidos los archivos, abre:
+
+https://scientificfede.github.io/visor-test/SATT_FIELD_LOGGER_V5_OFFLINE.html
+
+PRIMERA ACTIVACIÓN EN IPHONE
+1. Abre la URL anterior con cobertura y desde Safari.
+2. Espera unos 10-15 segundos.
+3. Recarga la página una vez.
+4. Comprueba que aparecen Santa Pola 2026 y los barcos.
+5. Activa GPS continuo y acepta permisos.
+6. Añade de nuevo a pantalla de inicio con el nombre SATT Logger V5.
+
+PRUEBA OFFLINE
+1. Abre el icono SATT Logger V5.
+2. Comprueba que están los barcos.
+3. Activa modo avión.
+4. Cierra la app completamente.
+5. Vuelve a abrirla desde el icono.
+6. Debe cargar sin conexión.
+
+IMPORTANTE
+El icono que ya creaste apunta a la V4.1. Para probar offline real tienes que crear un icono nuevo desde la V5.
+
+DATOS
+Los datos se siguen guardando en el dispositivo. Al terminar cada jornada exporta siempre CSV y JSON.
